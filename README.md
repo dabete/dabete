@@ -1,10 +1,12 @@
-## Hi there 👋
+# Hi, I'm Diego 👋
 
-I'm Diego, a student based in London.
+CS student at King's College London. I build full-stack apps and data tools — mostly Java, Spring Boot, and React.
 
-## Languages and Frameworks
+**Projects**
+- [Fridge](https://github.com/dabete/fridge) — full-stack social app (React, Spring Boot, PostgreSQL, WebSockets). Real-time chat, JWT auth, load-tested to 100 concurrent users.
+- UK Air Pollution Visualizer— JavaFX app rendering live DEFRA data on an interactive geospatial grid.
+- Predator vs Prey Simulator — Java simulation with multi-species inheritance and dynamic environment logic.
 
-Languages: Java, JavaScript, Python
-Frameworks: Spring Boot, React
+**Stack:** Java, Python, JavaScript, SQL · Spring Boot, React, JavaFX · Git, PostgreSQL, Supabase
 
-
+📫 diegoabete.work@gmail.com · [LinkedIn](https://linkedin.com/in/diego-abete-59776629b)
