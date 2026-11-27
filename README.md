@@ -1,6 +1,6 @@
 # Hi, I'm Diego 👋
 
-CS student at King's College London. I like building full stack apps — mostly Java, Spring Boot, and React.
+CS student at King's College London. 
 
 **Portfolio website**
 [Link](https://dabete.github.io/)
